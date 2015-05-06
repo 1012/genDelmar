@@ -1,0 +1,14 @@
+
+div.grid1
+	{
+	float: left;
+	width: 290px;
+	}
+	
+div.grid2 div
+	{
+		float: left;
+		width: 250px;
+		margin-right: 10px;
+	}
+	
